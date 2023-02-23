@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Sou Giuliano  Carlo, sou um programador Frot End. <br><br>
+Sou Giuliano  Carlo, programador Frot End. <br><br>
 💻 Atualmente estou estudando e criando projetos com:
 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" />
