@@ -22,7 +22,7 @@
                                                      
   <a>
   <a href="https://www.instagram.com/giuliano_carlo/">
-  <img align="left" alt="instagram" width="32px" src="https://cdn-icons-png.flaticon.com/512/3938/3938051.png" whidt="22px" /> 
+  <img align="left" alt="instagram" width="32px" src="https://cdn-icons-png.flaticon.com/512/3938/3938051.png" /> 
   </a> 
     
   <a>
